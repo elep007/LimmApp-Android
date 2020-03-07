@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "989396849303",
+    "firebase_url": "https://eweb-1b27e.firebaseio.com",
+    "project_id": "eweb-1b27e",
+    "storage_bucket": "eweb-1b27e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989396849303:android:ffd787302e39ac52",
+        "android_client_info": {
+          "package_name": "com.patrick.limm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989396849303-vfm70temvo0uupg3caapj5du90nck7as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patrick.limm",
+            "certificate_hash": "4c215627fc78fca4f53cce92bbce2dbd2a64b0bf"
+          }
+        },
+        {
+          "client_id": "989396849303-9c7hf520400aocmpdol6jl0j9ptgl18q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patrick.limm",
+            "certificate_hash": "136a7b3a29b19da7d46bcb02955f27e5f151ee0b"
+          }
+        },
+        {
+          "client_id": "989396849303-ioehilv6bq4o6qokntr0ualpllsrss0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVtDGkyHHhRF4TC3NYjPsZX76VqY93tfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989396849303-ioehilv6bq4o6qokntr0ualpllsrss0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "989396849303-u2r7jp103m254khkdh3lslpftgvp2maq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aution.test.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
